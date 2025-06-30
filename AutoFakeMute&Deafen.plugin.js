@@ -7,8 +7,8 @@
  * @website https://www.Dr-FarFar.com
  * @donate https://ko-fi.com/drfarfar
  * @patreon https://patreon.com/3XS0
- * @source https://raw.githubusercontent.com/BlackHatLab-INC/Better-Discord-Plugins/master/Auto-Fake-Mute-&-Deafen/AutoFakeMute&Deafen.plugin.js
- * @updateUrl https://raw.githubusercontent.com/BlackHatLab-INC/Better-Discord-Plugins/master/Auto-Fake-Mute-&-Deafen/AutoFakeMute&Deafen.plugin.js
+ * @source https://raw.githubusercontent.com/BlackHatLab-INC/Better-Discord-Plugins/Auto-Fake-Mute-&-Deafen/AutoFakeMute&Deafen.plugin.js
+ * @updateUrl https://raw.githubusercontent.com/BlackHatLab-INC/Better-Discord-Plugins/Auto-Fake-Mute-&-Deafen/AutoFakeMute&Deafen.plugin.js
  */
 
 // This section provides a compatibility shim for Windows Script Host (WSH) users who accidentally try to run this file directly.
